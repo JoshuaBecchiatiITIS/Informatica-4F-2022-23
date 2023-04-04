@@ -1,0 +1,13 @@
+C:\Users\Studente\Desktop\Flotta_Navale_JB\bin\Debug\Flotta_Navale_JB.exe.config
+C:\Users\Studente\Desktop\Flotta_Navale_JB\bin\Debug\Flotta_Navale_JB.exe
+C:\Users\Studente\Desktop\Flotta_Navale_JB\bin\Debug\Flotta_Navale_JB.pdb
+C:\Users\Studente\Desktop\Flotta_Navale_JB\obj\Debug\Flotta_Navale_JB.csproj.AssemblyReference.cache
+C:\Users\Studente\Desktop\Flotta_Navale_JB\obj\Debug\Flotta_Navale_JB.FlottaNavale.resources
+C:\Users\Studente\Desktop\Flotta_Navale_JB\obj\Debug\Flotta_Navale_JB.Ins_Comandante.resources
+C:\Users\Studente\Desktop\Flotta_Navale_JB\obj\Debug\Flotta_Navale_JB.Ins_Nave.resources
+C:\Users\Studente\Desktop\Flotta_Navale_JB\obj\Debug\Flotta_Navale_JB.Nome_flotta.resources
+C:\Users\Studente\Desktop\Flotta_Navale_JB\obj\Debug\Flotta_Navale_JB.Properties.Resources.resources
+C:\Users\Studente\Desktop\Flotta_Navale_JB\obj\Debug\Flotta_Navale_JB.csproj.GenerateResource.cache
+C:\Users\Studente\Desktop\Flotta_Navale_JB\obj\Debug\Flotta_Navale_JB.csproj.CoreCompileInputs.cache
+C:\Users\Studente\Desktop\Flotta_Navale_JB\obj\Debug\Flotta_Navale_JB.exe
+C:\Users\Studente\Desktop\Flotta_Navale_JB\obj\Debug\Flotta_Navale_JB.pdb
